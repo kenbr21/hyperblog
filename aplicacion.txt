@@ -1,1 +1,3 @@
-Inicio de la aplicacion
+Inicio de la aplicacion 
+
+se creo el diseño de la aplicacion
