@@ -4,4 +4,6 @@ se creo el diseño de la aplicacion
 
 creamos la base de datos
 
+master 1
+
 se comenzo a programar en python
