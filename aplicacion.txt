@@ -6,4 +6,6 @@ creamos la base de datos
 
 master 1
 
+master 2
+
 se comenzo a programar en python
