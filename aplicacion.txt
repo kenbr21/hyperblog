@@ -4,6 +4,8 @@ se creo el diseño de la aplicacion
 
 creamos la base de datos
 
+experimento 1
+
 master 1
 
 master 2
